@@ -1,0 +1,10 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env" //转换es6语法
+    ]
+  ],
+  "plugins":[
+      "@babel/plugin-syntax-dynamic-import"
+  ]
+}
